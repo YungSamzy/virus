@@ -1,0 +1,14 @@
+C:\Users\samzy\Desktop\Virus\VirusV2\Virus\obj\Release\Virus.csproj.AssemblyReference.cache
+C:\Users\samzy\Desktop\Virus\VirusV2\Virus\obj\Release\Virus.csproj.SuggestedBindingRedirects.cache
+C:\Users\samzy\Desktop\Virus\VirusV2\Virus\obj\Release\Virus.csproj.CoreCompileInputs.cache
+C:\Users\samzy\Desktop\Virus\VirusV2\Virus\bin\Release\Virus.exe
+C:\Users\samzy\Desktop\Virus\VirusV2\Virus\bin\Release\Virus.pdb
+C:\Users\samzy\Desktop\Virus\VirusV2\Virus\obj\Release\Virus.exe
+C:\Users\samzy\Desktop\Virus\VirusV2\Virus\obj\Release\Virus.pdb
+C:\Users\samzy\Desktop\Virus\VirusV2 - Backup\Virus\bin\Release\Virus.exe
+C:\Users\samzy\Desktop\Virus\VirusV2 - Backup\Virus\bin\Release\Virus.pdb
+C:\Users\samzy\Desktop\Virus\VirusV2 - Backup\Virus\obj\Release\Virus.csproj.AssemblyReference.cache
+C:\Users\samzy\Desktop\Virus\VirusV2 - Backup\Virus\obj\Release\Virus.csproj.SuggestedBindingRedirects.cache
+C:\Users\samzy\Desktop\Virus\VirusV2 - Backup\Virus\obj\Release\Virus.csproj.CoreCompileInputs.cache
+C:\Users\samzy\Desktop\Virus\VirusV2 - Backup\Virus\obj\Release\Virus.exe
+C:\Users\samzy\Desktop\Virus\VirusV2 - Backup\Virus\obj\Release\Virus.pdb
